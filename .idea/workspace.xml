@@ -5,6 +5,8 @@
       <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/IndexController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/Http/Controllers/NewsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/News.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/resources/views/admin/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/resources/views/admin/menu.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/resources/views/admin/test.php" afterDir="false" />
@@ -130,13 +132,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\GB-Laravel\app" />
       <recent name="C:\OpenServer\domains\GB-Laravel\resources\views" />
       <recent name="C:\OpenServer\domains\GB-Laravel\app\Http\Controllers" />
     </key>
@@ -159,7 +162,7 @@
       <workItem from="1642330929802" duration="100000" />
       <workItem from="1642331040267" duration="85000" />
       <workItem from="1642331175309" duration="2394000" />
-      <workItem from="1642345834214" duration="1124000" />
+      <workItem from="1642345834214" duration="1450000" />
     </task>
     <servers />
   </component>

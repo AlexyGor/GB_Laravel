@@ -21,13 +21,13 @@ Route::get('/', function () {
 });
 
 
-Route::get('/test', function () {
+/*Route::get('/test', function () {
     return "hello, world!";
 });
 
 Route::get('/page1', function () {
     return "lorem ipsum";
-});
+});*/
 
 /*Route::view('/', 'index');
 Route::view('/about', 'about');
