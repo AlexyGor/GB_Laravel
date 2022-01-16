@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13abdfdd-2c6d-4229-a80c-4457304e9044" name="Changes" comment="" />
+    <list default="true" id="13abdfdd-2c6d-4229-a80c-4457304e9044" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/IndexController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/NewsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/test_1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/news/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/news/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/news/one.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,10 +130,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../modules/php/PHP_7.1/php.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\GB-Laravel\resources\views" />
+      <recent name="C:\OpenServer\domains\GB-Laravel\app\Http\Controllers" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -138,6 +159,7 @@
       <workItem from="1642330929802" duration="100000" />
       <workItem from="1642331040267" duration="85000" />
       <workItem from="1642331175309" duration="2394000" />
+      <workItem from="1642345834214" duration="1124000" />
     </task>
     <servers />
   </component>
