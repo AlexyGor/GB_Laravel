@@ -24,3 +24,8 @@ Route::get('/test', function () {
 Route::get('/page1', function () {
     return "lorem ipsum";
 });
+
+Route::view('/', 'index');
+Route::view('/about', 'about');
+Route::view('/sport', 'sport');
+
