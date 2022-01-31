@@ -29,10 +29,10 @@ class IndexController extends Controller
 
             $data = $news->getNews();
             $data[] = $arr;
-            $id = array_key_last($data);
+            /*$id = array_key_last($data);
             $data[$id]['id'] = $id;
             $data[$id]['isPrivate'] = isset($arr['isPrivate']);
-            $data[$id]['image'] = $url;
+            $data[$id]['image'] = $url;*/
             File::put(storage_path() . '/news.json', json_encode($data, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
             return redirect()->route('news.one', $id)->with('success', 'Новость добавлена');
         }
