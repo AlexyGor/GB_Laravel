@@ -126,18 +126,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/storage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\GB-Laravel" />
+      <recent name="C:\OpenServer\domains\GB-Laravel\tests" />
       <recent name="C:\OpenServer\domains\GB-Laravel\storage" />
       <recent name="C:\OpenServer\domains\GB-Laravel\routes" />
-      <recent name="C:\OpenServer\domains\GB-Laravel\resources\views\news" />
-      <recent name="C:\OpenServer\domains\GB-Laravel\resources\views\layouts" />
-      <recent name="C:\OpenServer\domains\GB-Laravel\resources\views\admin" />
+      <recent name="C:\OpenServer\domains\GB-Laravel\public\css" />
     </key>
   </component>
   <component name="RunManager">
@@ -173,6 +173,12 @@
       <workItem from="1643049140153" duration="1553000" />
       <workItem from="1643535043344" duration="109000" />
       <workItem from="1643535299659" duration="2546000" />
+      <workItem from="1643647479147" duration="1185000" />
+      <workItem from="1643650520274" duration="601000" />
+      <workItem from="1643833048646" duration="1924000" />
+      <workItem from="1643835407686" duration="7000" />
+      <workItem from="1644249491434" duration="444000" />
+      <workItem from="1644787337834" duration="8000" />
     </task>
     <servers />
   </component>
